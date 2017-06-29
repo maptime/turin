@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /turin
 permalink: pretty
 future: true
 markdown: kramdown
@@ -6,7 +6,7 @@ paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: Maptime Turin name
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
